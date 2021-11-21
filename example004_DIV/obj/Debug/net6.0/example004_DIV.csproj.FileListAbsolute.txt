@@ -1,0 +1,15 @@
+/Users/pit/Documents/Учеба/KURS C-SHARP/Lection1/example004_DIV/bin/Debug/net6.0/example004_DIV
+/Users/pit/Documents/Учеба/KURS C-SHARP/Lection1/example004_DIV/bin/Debug/net6.0/example004_DIV.deps.json
+/Users/pit/Documents/Учеба/KURS C-SHARP/Lection1/example004_DIV/bin/Debug/net6.0/example004_DIV.runtimeconfig.json
+/Users/pit/Documents/Учеба/KURS C-SHARP/Lection1/example004_DIV/bin/Debug/net6.0/example004_DIV.dll
+/Users/pit/Documents/Учеба/KURS C-SHARP/Lection1/example004_DIV/bin/Debug/net6.0/ref/example004_DIV.dll
+/Users/pit/Documents/Учеба/KURS C-SHARP/Lection1/example004_DIV/bin/Debug/net6.0/example004_DIV.pdb
+/Users/pit/Documents/Учеба/KURS C-SHARP/Lection1/example004_DIV/obj/Debug/net6.0/example004_DIV.csproj.AssemblyReference.cache
+/Users/pit/Documents/Учеба/KURS C-SHARP/Lection1/example004_DIV/obj/Debug/net6.0/example004_DIV.GeneratedMSBuildEditorConfig.editorconfig
+/Users/pit/Documents/Учеба/KURS C-SHARP/Lection1/example004_DIV/obj/Debug/net6.0/example004_DIV.AssemblyInfoInputs.cache
+/Users/pit/Documents/Учеба/KURS C-SHARP/Lection1/example004_DIV/obj/Debug/net6.0/example004_DIV.AssemblyInfo.cs
+/Users/pit/Documents/Учеба/KURS C-SHARP/Lection1/example004_DIV/obj/Debug/net6.0/example004_DIV.csproj.CoreCompileInputs.cache
+/Users/pit/Documents/Учеба/KURS C-SHARP/Lection1/example004_DIV/obj/Debug/net6.0/example004_DIV.dll
+/Users/pit/Documents/Учеба/KURS C-SHARP/Lection1/example004_DIV/obj/Debug/net6.0/ref/example004_DIV.dll
+/Users/pit/Documents/Учеба/KURS C-SHARP/Lection1/example004_DIV/obj/Debug/net6.0/example004_DIV.pdb
+/Users/pit/Documents/Учеба/KURS C-SHARP/Lection1/example004_DIV/obj/Debug/net6.0/example004_DIV.genruntimeconfig.cache
