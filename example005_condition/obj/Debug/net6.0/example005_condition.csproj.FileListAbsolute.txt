@@ -1,0 +1,15 @@
+/Users/pit/Documents/Учеба/KURS C-SHARP/Lection1/example005_condition/bin/Debug/net6.0/example005_condition
+/Users/pit/Documents/Учеба/KURS C-SHARP/Lection1/example005_condition/bin/Debug/net6.0/example005_condition.deps.json
+/Users/pit/Documents/Учеба/KURS C-SHARP/Lection1/example005_condition/bin/Debug/net6.0/example005_condition.runtimeconfig.json
+/Users/pit/Documents/Учеба/KURS C-SHARP/Lection1/example005_condition/bin/Debug/net6.0/example005_condition.dll
+/Users/pit/Documents/Учеба/KURS C-SHARP/Lection1/example005_condition/bin/Debug/net6.0/ref/example005_condition.dll
+/Users/pit/Documents/Учеба/KURS C-SHARP/Lection1/example005_condition/bin/Debug/net6.0/example005_condition.pdb
+/Users/pit/Documents/Учеба/KURS C-SHARP/Lection1/example005_condition/obj/Debug/net6.0/example005_condition.csproj.AssemblyReference.cache
+/Users/pit/Documents/Учеба/KURS C-SHARP/Lection1/example005_condition/obj/Debug/net6.0/example005_condition.GeneratedMSBuildEditorConfig.editorconfig
+/Users/pit/Documents/Учеба/KURS C-SHARP/Lection1/example005_condition/obj/Debug/net6.0/example005_condition.AssemblyInfoInputs.cache
+/Users/pit/Documents/Учеба/KURS C-SHARP/Lection1/example005_condition/obj/Debug/net6.0/example005_condition.AssemblyInfo.cs
+/Users/pit/Documents/Учеба/KURS C-SHARP/Lection1/example005_condition/obj/Debug/net6.0/example005_condition.csproj.CoreCompileInputs.cache
+/Users/pit/Documents/Учеба/KURS C-SHARP/Lection1/example005_condition/obj/Debug/net6.0/example005_condition.dll
+/Users/pit/Documents/Учеба/KURS C-SHARP/Lection1/example005_condition/obj/Debug/net6.0/ref/example005_condition.dll
+/Users/pit/Documents/Учеба/KURS C-SHARP/Lection1/example005_condition/obj/Debug/net6.0/example005_condition.pdb
+/Users/pit/Documents/Учеба/KURS C-SHARP/Lection1/example005_condition/obj/Debug/net6.0/example005_condition.genruntimeconfig.cache
