@@ -1,0 +1,15 @@
+/Users/pit/Documents/Учеба/KURS C-SHARP/Lection1/example007_magic/obj/Debug/net6.0/example007_magic.csproj.AssemblyReference.cache
+/Users/pit/Documents/Учеба/KURS C-SHARP/Lection1/example007_magic/obj/Debug/net6.0/example007_magic.GeneratedMSBuildEditorConfig.editorconfig
+/Users/pit/Documents/Учеба/KURS C-SHARP/Lection1/example007_magic/obj/Debug/net6.0/example007_magic.AssemblyInfoInputs.cache
+/Users/pit/Documents/Учеба/KURS C-SHARP/Lection1/example007_magic/obj/Debug/net6.0/example007_magic.AssemblyInfo.cs
+/Users/pit/Documents/Учеба/KURS C-SHARP/Lection1/example007_magic/obj/Debug/net6.0/example007_magic.csproj.CoreCompileInputs.cache
+/Users/pit/Documents/Учеба/KURS C-SHARP/Lection1/example007_magic/bin/Debug/net6.0/example007_magic
+/Users/pit/Documents/Учеба/KURS C-SHARP/Lection1/example007_magic/bin/Debug/net6.0/example007_magic.deps.json
+/Users/pit/Documents/Учеба/KURS C-SHARP/Lection1/example007_magic/bin/Debug/net6.0/example007_magic.runtimeconfig.json
+/Users/pit/Documents/Учеба/KURS C-SHARP/Lection1/example007_magic/bin/Debug/net6.0/example007_magic.dll
+/Users/pit/Documents/Учеба/KURS C-SHARP/Lection1/example007_magic/bin/Debug/net6.0/ref/example007_magic.dll
+/Users/pit/Documents/Учеба/KURS C-SHARP/Lection1/example007_magic/bin/Debug/net6.0/example007_magic.pdb
+/Users/pit/Documents/Учеба/KURS C-SHARP/Lection1/example007_magic/obj/Debug/net6.0/example007_magic.dll
+/Users/pit/Documents/Учеба/KURS C-SHARP/Lection1/example007_magic/obj/Debug/net6.0/ref/example007_magic.dll
+/Users/pit/Documents/Учеба/KURS C-SHARP/Lection1/example007_magic/obj/Debug/net6.0/example007_magic.pdb
+/Users/pit/Documents/Учеба/KURS C-SHARP/Lection1/example007_magic/obj/Debug/net6.0/example007_magic.genruntimeconfig.cache
