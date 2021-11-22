@@ -1,0 +1,15 @@
+/Users/pit/Documents/Учеба/KURS C-SHARP/Lection1/example006_massa/obj/Debug/net6.0/example006_massa.csproj.AssemblyReference.cache
+/Users/pit/Documents/Учеба/KURS C-SHARP/Lection1/example006_massa/obj/Debug/net6.0/example006_massa.GeneratedMSBuildEditorConfig.editorconfig
+/Users/pit/Documents/Учеба/KURS C-SHARP/Lection1/example006_massa/obj/Debug/net6.0/example006_massa.AssemblyInfoInputs.cache
+/Users/pit/Documents/Учеба/KURS C-SHARP/Lection1/example006_massa/obj/Debug/net6.0/example006_massa.AssemblyInfo.cs
+/Users/pit/Documents/Учеба/KURS C-SHARP/Lection1/example006_massa/obj/Debug/net6.0/example006_massa.csproj.CoreCompileInputs.cache
+/Users/pit/Documents/Учеба/KURS C-SHARP/Lection1/example006_massa/bin/Debug/net6.0/example006_massa
+/Users/pit/Documents/Учеба/KURS C-SHARP/Lection1/example006_massa/bin/Debug/net6.0/example006_massa.deps.json
+/Users/pit/Documents/Учеба/KURS C-SHARP/Lection1/example006_massa/bin/Debug/net6.0/example006_massa.runtimeconfig.json
+/Users/pit/Documents/Учеба/KURS C-SHARP/Lection1/example006_massa/bin/Debug/net6.0/example006_massa.dll
+/Users/pit/Documents/Учеба/KURS C-SHARP/Lection1/example006_massa/bin/Debug/net6.0/ref/example006_massa.dll
+/Users/pit/Documents/Учеба/KURS C-SHARP/Lection1/example006_massa/bin/Debug/net6.0/example006_massa.pdb
+/Users/pit/Documents/Учеба/KURS C-SHARP/Lection1/example006_massa/obj/Debug/net6.0/example006_massa.dll
+/Users/pit/Documents/Учеба/KURS C-SHARP/Lection1/example006_massa/obj/Debug/net6.0/ref/example006_massa.dll
+/Users/pit/Documents/Учеба/KURS C-SHARP/Lection1/example006_massa/obj/Debug/net6.0/example006_massa.pdb
+/Users/pit/Documents/Учеба/KURS C-SHARP/Lection1/example006_massa/obj/Debug/net6.0/example006_massa.genruntimeconfig.cache
